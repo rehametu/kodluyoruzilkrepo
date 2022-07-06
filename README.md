@@ -9,7 +9,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/
 Öncelikle projeyi clonelayın. (Buraya sizi reopnuzdan link gelecek.)
 
 ```
-git clone 
+git clone https://github.com/rehametu/kodluyoruzilkrepo.git 
+
 ```
 
 ## Usage
